@@ -1,1 +1,127 @@
 #EXTM3U
+
+#EXTINF:1, [COLOR lime] CANALES DE TELEVISION [/COLOR]
+#EXTINF:0,
+
+#EXTINF:0, CANAL 2 (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+
+#EXTINF:0, CANAL 5 (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+
+#EXTINF:0, CINEMAX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+
+#EXTINF:0, GALA TV (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+
+#EXTINF:0, INVESTIGATION DISCOVERY 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
+
+#EXTINF:0, THE FILM CHANNEL (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
+
+#EXTINF:0, UNICABLE (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
+
+#EXTINF:0, CINECANAL (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
+
+#EXTINF:0, TNT (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
+
+#EXTINF:0, DE PELICULA (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
+
+#EXTINF:2, [COLOR lime] PELICULAS [/COLOR]
+#EXTINF:0,
+
+#EXTINF:0, NO BASTA SER CHARRO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=v2uXfZX1Wi0&nohtml5=False
+
+#EXTINF:0, AY JALISCO NO TE RAJES
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qiUttaaugWg&nohtml5=False
+
+#EXTINF:0, ME HE DE COMER ESA TUNA 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U7cIQ3pBCYg&nohtml5=False
+
+#EXTINF:0, UNA CARTA DE AMOR
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IRh9UTEW9RM&nohtml5=False
+
+#EXTINF:0, AGARRANDO PAREJO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=omQ5YNeE7aY&nohtml5=False
+
+#EXTINF:0, EN CADA FERIA UN AMOR
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xCdSRBC1cIY&nohtml5=False
+
+#EXTINF:0, AL SON DE LA MARIMBA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=albDEpgr4Ws&nohtml5=False
+
+#EXTINF:0, MIS HIJOS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8XI6itNRiDU&nohtml5=False
+
+#EXTINF:0, CUANDO LOS PADRES SE QUEDAN SOLOS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2s8FbLs7Ybo&nohtml5=False
+
+#EXTINF:0, GUITARRAS LLOEREN GUITARRAS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fCeTm_osuHo&nohtml5=False
+
+#EXTINF:0, MI ADORADA CLEMENTINA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-5hCezwaTsw&nohtml5=False
+
+#EXTINF:0, DONA MARIQUITA DE MI CORAZON
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ax3yXfFytB4&nohtml5=False
+
+#EXTINF:0, EL PENON DE LAS ANIMAS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZhPVsp025UY&nohtml5=False
+
+#EXTINF:0, HISTORIA DE UN GRAN AMOR
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZmtowSSdUgU&nohtml5=False
+
+#EXTINF:0, UN GALLO EN CORRAL AJENO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fmSKvRJRkSk
+
+#EXTINF:0, YO NO ME CASO COMPADRE
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3aj4oKy1aIk&nohtml5=False
+
+#EXTINF:0, QUE TE HA DADO ESA MUJER
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EbwEd3WEqxM&nohtml5=False
+
+#EXTINF:0, LADRON QUE ROBA LADRON
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NWnNSNSAv3k&nohtml5=False
+
+#EXTINF:0, Los Tres Garcia
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WgNq_FhBXMk
+#EXTM3U
+
+#EXTINF:0, LOS TRES HUASTECOS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XQRkj0GqspA
+#EXTM3U
+
+#EXTINF:0, ESCUELA DE VAGABUNDOS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-cOmZ8A96B4
+#EXTM3U
+
+#EXTINF:0, EL GAVILAN POLLERO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yFPfisT6vkg
+#EXTM3U
+
+#EXTINF:0, AHI VIENE MARTIN CORONA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U4QbPoT8ZIQ
+#EXTM3U
+
+#EXTINF:0, LOS GAVILANES
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_vCdFmqzZwM
+#EXTM3U
+
+#EXTINF:0, DICEN QUE SOY MUJERIEGO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8SXBlvxXNu4
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+
+
